@@ -10,7 +10,8 @@ Facilitator: [@newmuis](https://github.com/newmuis)
 * [@bramanudom](https://github.com/bramanudom) - Pet Ramanudom
 * [@vinaymahag](https://github.com/vinaymahag) - Vinay Mahagaokar
 * [@hongwei1990](https://github.com/hongwei1990) - Wei Hong
-Github team https://github.com/orgs/ampproject/teams/wg-stories also includes UI WG members.
+
+Github team https://github.com/orgs/ampproject/teams/wg-stories also includes Stories WG members.
 
 # Communication Channels
 * Stories Working Group members will use `#wg-stories` channel on AMP's Slack ([signup](https://docs.google.com/forms/d/e/1FAIpQLSd83J2IZA6cdR6jPwABGsJE8YL4pkypAbKMGgUZZriU7Qu6Tg/viewform?fbzx=4406980310789882877)) for real-time discussion. The channel is open to anyone, regardless of membership in Stories working group.
