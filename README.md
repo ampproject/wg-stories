@@ -4,12 +4,12 @@ The **wg-stories** [Working Group](https://github.com/ampproject/meta/blob/maste
 Facilitator: @newmuis
 
 # Members
-* @newmuis - Jon Newmuis (Facilitator)
-* @gmajoulet - Gabriel Majoulet
-* @enriqe - Enrique Marroquin
-* @bramanudom - Pet Ramanudom
-* @vinaymahag - Vinay Mahagaokar
-* @hongwei1990 - Wei Hong
+* [@newmuis](https://github.com/newmuis) - Jon Newmuis (Facilitator)
+* [@gmajoulet](https://github.com/gmajoulet) - Gabriel Majoulet
+* [@enriqe](https://github.com/enriqe) - Enrique Marroquin
+* [@bramanudom](https://github.com/bramanudom) - Pet Ramanudom
+* [@vinaymahag](https://github.com/vinaymahag) - Vinay Mahagaokar
+* [@hongwei1990](https://github.com/hongwei1990) - Wei Hong
 Github team https://github.com/orgs/ampproject/teams/wg-stories also includes UI WG members.
 
 # Communication Channels
