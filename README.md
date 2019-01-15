@@ -1,7 +1,7 @@
 # wg-stories
 The **wg-stories** [Working Group](https://github.com/ampproject/meta/blob/master/GOVERNANCE.md#working-groups) is responsible for implementing and improving AMP's story format (amp-story).
 
-Facilitator: @newmuis
+Facilitator: [@newmuis](https://github.com/newmuis)
 
 # Members
 * [@newmuis](https://github.com/newmuis) - Jon Newmuis (Facilitator)
