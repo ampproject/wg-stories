@@ -4,14 +4,16 @@ facilitator:
   login: newmuis
   name: Jon Newmuis
 members:
+  - login: jackbsteinberg
+    name: Jack Steinberg
   - login: gmajoulet
     name: Gabriel Majoulet
-  - login: enriqe
+  - login: Enriqe
     name: Enrique Marroquin
-  - login: bramanudom
-    name: Pet Ramanudom
   - login: vinaymahag
     name: Vinay Mahagaokar
+  - login: jasti
+    name: Vamsee Jasti
   - login: hongwei1990
     name: Wei Hong
 communication:
