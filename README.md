@@ -7,9 +7,9 @@ Facilitator: [@newmuis](https://github.com/newmuis)
 * [@newmuis](https://github.com/newmuis) - Jon Newmuis (Facilitator)
 * [@gmajoulet](https://github.com/gmajoulet) - Gabriel Majoulet
 * [@enriqe](https://github.com/enriqe) - Enrique Marroquin
-* [@bramanudom](https://github.com/bramanudom) - Pet Ramanudom
-* [@vinaymahag](https://github.com/vinaymahag) - Vinay Mahagaokar
-* [@hongwei1990](https://github.com/hongwei1990) - Wei Hong
+* [@jackbsteinberg](https://github.com/jackbsteinberg) - Jack Steinberg
+* [@jasti](https://github.com/jasti) - Vamsee Jasti
+* [@hongwei1990](https://github.com/hongwei1990) - Hong Wei
 
 Github team https://github.com/orgs/ampproject/teams/wg-stories also includes Stories WG members.
 
@@ -19,6 +19,12 @@ Github team https://github.com/orgs/ampproject/teams/wg-stories also includes St
 * Stories Working Group will post **Announcements and Notices** regarding events as an issue labeled with `Type: Event` in this repository.
 * Stories Working Group will post **Quarterly Roadmap** as an issue labeled with `Type: Roadmap` in this repository.
 Any bugs or feature requests related to AMP should NOT be filed in this repository and https://github.com/ampproject/amphtml/issues should be used instead.
+* Stories Working Group will hold **monthly meetings**, generally in the last week of each month.  Before this time, a Doodle link will be sent to evaluate the best time at which to hold the meeting, and a sli.do link will be sent to solicit questions and/or agenda topics for the meeting.  Both links will all be available in the [GitHub issue for the meeting](https://github.com/ampproject/wg-stories/labels/Type%3A%20Meeting) labeled with `Type: Meeting`; once finalized, the issue will be updated with the finalized date and time, and the meeting will be reflected on the working group calendar.
+
+<a href="https://calendar.google.com/calendar/embed?src=amp.dev_1u3r62nini46cl2pf4c1kdiad8%40group.calendar.google.com" target="wg-stories-cal">
+  <img src="https://calendar.google.com/googlecalendar/images/favicon_v2018_256.png" alt="Calendar icon" width="24" height="24">
+  View Stories Working Group Calendar
+</a>
 
 `@ampproject/wg-stories` can be used to mention the UI Working Group in issues and PRs.
 
