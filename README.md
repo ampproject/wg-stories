@@ -7,7 +7,8 @@ Facilitator: [@newmuis](https://github.com/newmuis)
 * [@newmuis](https://github.com/newmuis) - Jon Newmuis (Facilitator)
 * [@gmajoulet](https://github.com/gmajoulet) - Gabriel Majoulet
 * [@enriqe](https://github.com/enriqe) - Enrique Marroquin
-* [@jackbsteinberg](https://github.com/jackbsteinberg) - Jack Steinberg
+* [@processprocess](https://github.com/processprocess) - Philip Bell
+* [@mszylkowski](https://github.com/mszylkowski) - Matias Szylkowski
 * [@jasti](https://github.com/jasti) - Vamsee Jasti
 * [@hongwei1990](https://github.com/hongwei1990) - Hong Wei
 
