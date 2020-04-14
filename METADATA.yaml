@@ -4,8 +4,10 @@ facilitator:
   login: newmuis
   name: Jon Newmuis
 members:
-  - login: jackbsteinberg
-    name: Jack Steinberg
+  - login: processprocess
+    name: Philip Bell
+  - login: mszylkowski
+    name: Matias Szylkowski
   - login: gmajoulet
     name: Gabriel Majoulet
   - login: Enriqe
