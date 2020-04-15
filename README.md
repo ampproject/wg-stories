@@ -10,7 +10,7 @@ Facilitator: [@newmuis](https://github.com/newmuis)
 * [@processprocess](https://github.com/processprocess) - Philip Bell
 * [@mszylkowski](https://github.com/mszylkowski) - Matias Szylkowski
 * [@jasti](https://github.com/jasti) - Vamsee Jasti
-* [@Vra0](https://github.com/Vra0) - Varun Rao
+* [@raovs](https://github.com/raovs) - Varun Rao
 * [@hongwei1990](https://github.com/hongwei1990) - Hong Wei
 
 Github team https://github.com/orgs/ampproject/teams/wg-stories also includes Stories WG members.
