@@ -9,6 +9,7 @@ Facilitator: [@newmuis](https://github.com/newmuis)
 * [@enriqe](https://github.com/enriqe) - Enrique Marroquin
 * [@processprocess](https://github.com/processprocess) - Philip Bell
 * [@mszylkowski](https://github.com/mszylkowski) - Matias Szylkowski
+* [@MaxBittker](https://github.com/MaxBittker) - Max Bittker
 * [@jasti](https://github.com/jasti) - Vamsee Jasti
 * [@raovs](https://github.com/raovs) - Varun Rao
 * [@hongwei1990](https://github.com/hongwei1990) - Hong Wei
