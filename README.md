@@ -20,8 +20,7 @@ Github team https://github.com/orgs/ampproject/teams/wg-stories also includes St
 * Stories Working Group members will use `#wg-stories` channel on AMP's Slack ([signup](https://docs.google.com/forms/d/e/1FAIpQLSd83J2IZA6cdR6jPwABGsJE8YL4pkypAbKMGgUZZriU7Qu6Tg/viewform?fbzx=4406980310789882877)) for real-time discussion. The channel is open to anyone, regardless of membership in Stories working group.
 * Stories Working Group will post **Status Updates** every two weeks as an issue labeled with `Type: Status Update` in this repository.
 * Stories Working Group will post **Announcements and Notices** regarding events as an issue labeled with `Type: Event` in this repository.
-* Stories Working Group will post **Quarterly Roadmap** as an issue labeled with `Type: Roadmap` in this repository.
-Any bugs or feature requests related to AMP should NOT be filed in this repository and https://github.com/ampproject/amphtml/issues should be used instead.
+* Any bugs or feature requests related to AMP should NOT be filed in this repository and https://github.com/ampproject/amphtml/issues should be used instead.
 * Stories Working Group will hold **monthly meetings**, generally in the last week of each month.  Before this time, a Doodle link will be sent to evaluate the best time at which to hold the meeting, and a sli.do link will be sent to solicit questions and/or agenda topics for the meeting.  Both links will all be available in the [GitHub issue for the meeting](https://github.com/ampproject/wg-stories/labels/Type%3A%20Meeting) labeled with `Type: Meeting`; once finalized, the issue will be updated with the finalized date and time, and the meeting will be reflected on the working group calendar.
 
 <a href="https://calendar.google.com/calendar/embed?src=amp.dev_1u3r62nini46cl2pf4c1kdiad8%40group.calendar.google.com" target="wg-stories-cal">
