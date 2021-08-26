@@ -9,8 +9,8 @@ Facilitator: [@newmuis](https://github.com/newmuis)
 * [@enriqe](https://github.com/enriqe) - Enrique Marroquin
 * [@processprocess](https://github.com/processprocess) - Philip Bell
 * [@mszylkowski](https://github.com/mszylkowski) - Matias Szylkowski
-* [@raxsha](https://github.com/raxsha) - Raksha Muthukumar
-* [@jasti](https://github.com/jasti) - Vamsee Jasti
+* [@coreymasanto](https://github.com/coreymasanto) - Corey Masanto
+* [@warrenders](https://github.com/warrenders) - Ryan Warrender
 * [@raovs](https://github.com/raovs) - Varun Rao
 * [@hongcatlover](https://github.com/hongcatlover) - Hong Wei
 
